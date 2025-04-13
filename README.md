@@ -51,3 +51,4 @@
 - [Time Series Based Air Pollution Forecasting using SARIMA and Prophet Model (.pdf](./studies/Time%20Series%20based%20Air%20Pollution%20Forecasting%20using%20SARIMA%20and%20Prophet%20Model.pdf)
 - [A Comparison between ARIMA, LSTM, and GRU for Time Series (.pdf](./studies/A%20Comparison%20between%20ARIMA,%20LSTM,%20and%20GRU%20for%20Time%20Series.pdf)
 - [Comparative Analysis of Time-Series Forecasting Algorithms for Stock Price Prediction (.pdf](/studies/Comparative%20analysis%20of%20time-series%20forecasting%20algorithms%20for%20stock%20price%20prediction.pdf)
+# CCT-ADA-Time-Series-Analysis
